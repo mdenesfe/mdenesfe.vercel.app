@@ -26,7 +26,7 @@ const CONFIG = {
   link: "https://mdenesfe.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-vercel.vercel.app",  The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-playground.vercel.app/?share=jVNLTsMwEL2KZakCpAABiqiiUgkVJLpuBZtunGSauDh25Di0oeoJWHECrsgRGDsNbalK2fjz3vjNjGdmQSMVAw1oN-avY0lIYSoBt4uFPROSAk9SE5CjC99vHXk1OOOxSX9hMS9ywSpEJwLmDWpgbu4ETyTiEUgDumGYRQcGsmKHmpaF4ZOqrxCU1vc2bfXvuYbIcOV0lSgzuck-a5YjIdUMDw0Rsugl0aqUcV8JpZGfpdzALj3IWAJIaxZzJk4Tu2MAxxHXkQDCDLm8zudu8QhmkRo0qchlyyNGM1nkTKM58VsnHtmvcWM17HJAYze-IX-z4eHno4Jba5vlcix79tBUsn64Xc99hfqzIAdLYl0T4pyPpQvhHGPYCub_gUzQSZ1j298GrYCrq86YWD_ABnD1DAX-0RrOmE64HClshau1kOASHldNfXHW-cFdMwxzFlkPuYbTzd7ZyA8zCntfnx_v3fOwTnCVarNTj6rctmZBgwV1o0KDju97tJ4lGrTtJYawTGgwYaIAj0KmpnxU5XYQzczdUMcm_ZCFENPA6BKWHjUsRIsn0BEIuvwG",  The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
